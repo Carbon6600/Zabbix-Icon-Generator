@@ -8,6 +8,9 @@
 
 ## 🌐 Демо / Live Demo
 
+<img width="740" height="293" alt="image" src="https://github.com/user-attachments/assets/ef172f67-9c84-4f7c-8358-53f38a5b1190" />
+
+
 **🔗 [Zabbix Icon Generator](https://carbon6600.github.io/Zabbix-Icon-Generator/)**
 
 [![Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://carbon6600.github.io/Zabbix-Icon-Generator/)
