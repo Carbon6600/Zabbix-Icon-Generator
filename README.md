@@ -1,0 +1,1 @@
+# Zabbix-Icon-Generator
