@@ -8,16 +8,28 @@
 
 ## 🌐 Демо / Live Demo
 
-<img width="740" height="293" alt="image" src="https://github.com/user-attachments/assets/ef172f67-9c84-4f7c-8358-53f38a5b1190" />
+<div align="center">
 
+### 🔗 [**Відкрити генератор іконок**](https://carbon6600.github.io/Zabbix-Icon-Generator/)
+### [carbon6600.github.io/Zabbix-Icon-Generator](https://carbon6600.github.io/Zabbix-Icon-Generator/)
 
-**🔗 [Zabbix Icon Generator](https://carbon6600.github.io/Zabbix-Icon-Generator/)**
+[![Demo](https://img.shields.io/badge/demo-online-brightgreen?style=for-the-badge)](https://carbon6600.github.io/Zabbix-Icon-Generator/)
 
+</div>
 
-<img width="517" height="398" alt="image" src="https://github.com/user-attachments/assets/8528ac59-9cab-4cf1-8d14-a9452046132d" />
+## 📸 Скріншоти / Screenshots
 
+<div align="center">
 
-[![Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://carbon6600.github.io/Zabbix-Icon-Generator/)
+### Головний інтерфейс
+[![Головний екран](https://github.com/user-attachments/assets/ef172f67-9c84-4f7c-8358-53f38a5b1190)](https://carbon6600.github.io/Zabbix-Icon-Generator/)
+*⬆️ Клікніть на зображення, щоб відкрити генератор*
+
+### Приклад роботи
+[![Приклад роботи](https://github.com/user-attachments/assets/8528ac59-9cab-4cf1-8d14-a9452046132d)](https://carbon6600.github.io/Zabbix-Icon-Generator/)
+*⬆️ Клікніть на зображення, щоб спробувати*
+
+</div>
 
 ## ✨ Можливості / Features
 
@@ -44,7 +56,9 @@
 ## 🚀 Швидкий старт / Quick Start
 
 ### Варіант 1: Онлайн версія
-Просто відкрийте [Zabbix Icon Generator](https://carbon6600.github.io/Zabbix-Icon-Generator/) у браузері.
+Просто відкрийте [**Zabbix Icon Generator**](https://carbon6600.github.io/Zabbix-Icon-Generator/) у браузері.
+
+[![Відкрити онлайн](https://img.shields.io/badge/ВІДКРИТИ-Онлайн%20версію-brightgreen?style=for-the-badge)](https://carbon6600.github.io/Zabbix-Icon-Generator/)
 
 ### Варіант 2: Локальне використання
 ```bash
