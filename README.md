@@ -13,6 +13,10 @@
 
 **🔗 [Zabbix Icon Generator](https://carbon6600.github.io/Zabbix-Icon-Generator/)**
 
+
+<img width="517" height="398" alt="image" src="https://github.com/user-attachments/assets/8528ac59-9cab-4cf1-8d14-a9452046132d" />
+
+
 [![Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://carbon6600.github.io/Zabbix-Icon-Generator/)
 
 ## ✨ Можливості / Features
